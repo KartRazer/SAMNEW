@@ -222,7 +222,9 @@
   <ItemGroup>
     <Resource Include="Resources\add.png" />
     <Resource Include="Resources\add_active.png" />
-    <Resource Include="Resources\error.png" />
+    <Resource Include="Resources\error.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="Resources\steam.ico" />
   </ItemGroup>
   <ItemGroup>
