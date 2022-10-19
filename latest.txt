@@ -1,4 +1,4 @@
 1.1.0.0
 SAM.exe
-https://github.com/KartRazer/SAMNEW/releases/download/Release/SAM.exe
+https://github.com/KartRazer/SAMNEW/releases/download/release1.1.0.0/SAM.exe
 SAM.exe
